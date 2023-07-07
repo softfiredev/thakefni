@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "652819880657",
+    "project_id": "thakefnisoft-747fa",
+    "storage_bucket": "thakefnisoft-747fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652819880657:android:d4435ea6166676841cc3f0",
+        "android_client_info": {
+          "package_name": "com.softfiredev.ThakefniDevApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652819880657-io30fbtv3ar293bt675tqc87atho3n4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softfiredev.ThakefniDevApp",
+            "certificate_hash": "b2855c4083b5bf110603dd5b2039275d13361e50"
+          }
+        },
+        {
+          "client_id": "652819880657-s9ikbibvif3q3nhm44t3n2sg6q29f5jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU4-FLq2wIeKbEwnh0mlgGu_cY9WUUAIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652819880657-s9ikbibvif3q3nhm44t3n2sg6q29f5jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

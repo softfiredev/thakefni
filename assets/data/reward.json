@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "1D orange",
+    "imagePath": "assets/icons/category/orange.png"
+  },
+  {
+    "id": 2,
+    "name": "1D ooredoo",
+    "imagePath": "assets/icons/category/ooredoo.png"
+  },
+  {
+    "id": 3,
+    "name": "1D Telecom",
+    "imagePath": "assets/icons/category/ttelecom.png"
+
+  },
+  {
+    "id": 4,
+    "name": "5D orange",
+    "imagePath": "assets/icons/category/orange -1000.png"
+  },
+  {
+    "id": 5,
+    "name": "5D ooredoo",
+    "imagePath": "assets/icons/category/ooredoo - 1000.png"
+  },
+  {
+    "id": 6,
+    "name": "5D Telecom",
+    "imagePath": "assets/icons/category/ttelecom - 1000.png"
+  },
+  {
+    "id": 7,
+    "name": "50 DT Carrefour",
+    "imagePath": "assets/icons/category/carrefour.png"
+  },
+  {
+    "id": 8,
+    "name": "90 DT Carrefour",
+    "imagePath": "assets/icons/category/carrefour - 1500.png"
+  }
+
+]

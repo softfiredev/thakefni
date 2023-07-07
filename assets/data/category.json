@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "أمثلة شعبية",
+    "imagePath": "assets/icons/category/tunisia.png"
+  },
+  {
+    "id": 2,
+    "name": "عالم الحيوان",
+    "imagePath": "assets/icons/category/animals.png"
+  },
+  {
+    "id": 3,
+    "name": "أسئلة دينية",
+    "imagePath": "assets/icons/category/quran.png"
+
+  },
+  {
+    "id": 4,
+    "name": "أسئلة ثقافية",
+    "imagePath": "assets/icons/category/cultural.png"
+  },
+  {
+    "id": 5,
+    "name": "دول و عواصم",
+    "imagePath": "assets/icons/category/language.png"
+  },
+  {
+    "id": 6,
+    "name": "أسئلة رياضية",
+    "imagePath": "assets/icons/category/sports.png"
+  },
+  {
+    "id": 7,
+    "name": "أسئلة عن شخصيات",
+    "imagePath": "assets/icons/category/man.png"
+  },
+  {
+    "id": 8,
+    "name": "أسئلة عن تونس",
+    "imagePath": "assets/icons/category/tunisie.png"
+  }
+]
